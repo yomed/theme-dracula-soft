@@ -1,31 +1,29 @@
 {
-    "name": "theme-dracula",
-    "displayName": "Dracula Syntax Theme",
-    "description": "Dracula Syntax Theme. A dark theme for many editors, shells, and more.",
-    "version": "1.2.5",
+    "name": "theme-dracula-soft",
+    "displayName": "Dracula Soft Syntax Theme",
+    "description": "fork of dracula with softer colors and darker background",
+    "version": "1.0.0",
     "engines": {
         "vscode": "*"
     },
-    "publisher": "dracula-theme",
+    "publisher": "yomed",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/dracula/visual-studio-code/issues"
+        "url": "https://github.com/yomed/theme-dracula-soft/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dracula/visual-studio-code.git"
+        "url": "https://github.com/yomed/theme-dracula-soft.git"
     },
     "categories": [
         "Themes"
     ],
-    "icon": "icon.png",
-    "homepage": "https://draculatheme.com/",
     "contributes": {
         "themes": [
             {
-                "label": "Dracula Syntax Theme",
+                "label": "Dracula Soft Syntax Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dracula.tmTheme"
+                "path": "./themes/DraculaSoft.tmTheme"
             }
         ]
     }

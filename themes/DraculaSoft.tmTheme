@@ -23,17 +23,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#282a36</string>
+				<string>#202020</string>
 				<key>caret</key>
 				<string>#f8f8f0</string>
 				<key>foreground</key>
-				<string>#f8f8f2</string>
+				<string>#d6d6d6</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#44475a</string>
+				<string>#2b2b2b</string>
 				<key>selection</key>
-				<string>#44475a</string>
+				<string>#2b2b2b</string>
 				<key>findHighlight</key>
 				<string>#effb7b</string>
 				<key>findHighlightForeground</key>
@@ -75,7 +75,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1fa8c</string>
+				<string>#dce48a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -145,7 +145,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#ec82bf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#ec82bf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,7 +169,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#ec82bf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -182,7 +182,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#8be9fd</string>
+				<string>#88e0f3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +195,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6bcd83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -208,7 +208,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6bcd83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,7 +221,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6bcd83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -247,7 +247,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#ec82bf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,7 +260,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6bcd83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -273,7 +273,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8be9fd</string>
+				<string>#88e0f3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -321,7 +321,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ff79c6</string>
+				<string>#ec82bf</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -371,7 +371,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#ec82bf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -382,7 +382,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6bcd83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -442,7 +442,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8be9fd</string>
+				<string>#88e0f3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -453,7 +453,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1fa8c</string>
+				<string>#dce48a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -464,7 +464,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6bcd83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -486,7 +486,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#ec82bf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -508,7 +508,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6bcd83</string>
 			</dict>
 		</dict>
 		<dict>
