@@ -1,30 +1,30 @@
 {
-    "name": "theme-dracula-soft",
-    "displayName": "Dracula Soft Syntax Theme",
-    "description": "fork of dracula with darker background and softer colors",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "*"
-    },
-    "publisher": "yomed",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/yomed/theme-dracula-soft/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/yomed/theme-dracula-soft.git"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dracula Soft Syntax Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/DraculaSoft.tmTheme"
-            }
-        ]
-    }
+  "name": "theme-dracula-soft",
+  "displayName": "Dracula Soft Syntax Theme",
+  "description": "fork of dracula with darker background and softer colors",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "*"
+  },
+  "publisher": "yomed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yomed/theme-dracula-soft/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yomed/theme-dracula-soft.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Soft Syntax Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DraculaSoft.tmTheme"
+      }
+    ]
+  }
 }
