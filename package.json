@@ -1,7 +1,7 @@
 {
     "name": "theme-dracula-soft",
     "displayName": "Dracula Soft Syntax Theme",
-    "description": "fork of dracula with softer colors and darker background",
+    "description": "fork of dracula with darker background and softer colors",
     "version": "1.0.0",
     "engines": {
         "vscode": "*"
