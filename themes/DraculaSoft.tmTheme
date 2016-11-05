@@ -13,12 +13,12 @@
 -->
 
 <!--
-blue: #7fd0e2
-green: #71cd88
-yellow: #d9e185
+blue: #78bae0
+green: #80d394
+orange: #eeb375
 pink: #e289bc
 purple: #be9af0
-orange: #f4b470
+yellow: #e2eb86
 -->
 
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -84,7 +84,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d9e185</string>
+				<string>#eeb375</string>
 			</dict>
 		</dict>
 		<dict>
@@ -141,7 +141,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#f4b470</string>
+				<string>#e2eb86</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,7 +191,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#7fd0e2</string>
+				<string>#78bae0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,7 +204,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#71cd88</string>
+				<string>#80d394</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#71cd88</string>
+				<string>#80d394</string>
 			</dict>
 		</dict>
 		<dict>
@@ -230,7 +230,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#71cd88</string>
+				<string>#80d394</string>
 			</dict>
 		</dict>
 		<dict>
@@ -243,7 +243,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#f4b470</string>
+				<string>#e2eb86</string>
 			</dict>
 		</dict>
 		<dict>
@@ -269,7 +269,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#71cd88</string>
+				<string>#80d394</string>
 			</dict>
 		</dict>
 		<dict>
@@ -282,7 +282,7 @@ orange: #f4b470
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#7fd0e2</string>
+				<string>#78bae0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -391,7 +391,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#71cd88</string>
+				<string>#80d394</string>
 			</dict>
 		</dict>
 		<dict>
@@ -451,7 +451,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7fd0e2</string>
+				<string>#78bae0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -462,7 +462,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d9e185</string>
+				<string>#eeb375</string>
 			</dict>
 		</dict>
 		<dict>
@@ -473,7 +473,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#71cd88</string>
+				<string>#80d394</string>
 			</dict>
 		</dict>
 		<dict>
@@ -484,7 +484,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f4b470</string>
+				<string>#e2eb86</string>
 			</dict>
 		</dict>
 		<dict>
@@ -517,7 +517,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#71cd88</string>
+				<string>#80d394</string>
 			</dict>
 		</dict>
 		<dict>
@@ -528,7 +528,7 @@ orange: #f4b470
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f4b470</string>
+				<string>#e2eb86</string>
 			</dict>
 		</dict>
 	</array>
