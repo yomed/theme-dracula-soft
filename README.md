@@ -3,4 +3,4 @@
 Fork of [Dracula Syntax Theme for Visual Studio Code](https://github.com/dracula/visual-studio-code)
 
 ## Screenshot
-<img src="screenshot.png?raw=true" width="735" alt="example screenshot" />
+<img src="https://github.com/yomed/theme-dracula-soft/blob/master/screenshot.png?raw=true" width="735" alt="example screenshot" />
