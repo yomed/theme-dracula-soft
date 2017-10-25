@@ -8,6 +8,7 @@
   },
   "publisher": "yomed",
   "license": "MIT",
+  "icon": "icon.png",
   "bugs": {
     "url": "https://github.com/yomed/theme-dracula-soft/issues"
   },
